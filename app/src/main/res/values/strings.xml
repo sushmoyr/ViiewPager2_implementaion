@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViiewPager2 implementaion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cool_app">Cool App</string>
+    <string name="find_location">Find Location</string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At in tellus integer feugiat scelerisque varius.</string>
+    <string name="image">Image</string>
+    <string name="pin_location">Pin Location</string>
+    <string name="navigate_freely">Navigate Freely</string>
+    <string name="exit">Exit</string>
+</resources>
