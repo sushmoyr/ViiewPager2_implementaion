@@ -24,17 +24,15 @@ class ViewPagerFragment : Fragment() {
 
 
         val fragmentList = arrayListOf<Fragment>(
-            FirstScreen(),
+            FirstScreen(), //Name of fragment classes
             SecondScreen(),
             ThirdScreen()
         )
-
         val adapter = ViewPagerAdapter(
             fragmentList,
             requireActivity().supportFragmentManager,
             lifecycle
         )
-
         binding.viewPager.adapter = adapter
 
 
